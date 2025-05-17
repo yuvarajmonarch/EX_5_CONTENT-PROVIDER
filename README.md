@@ -3,9 +3,9 @@
 ## PROGRAM:
 Program to print the contact name and phone number using content providers.
 
-Developed by: Jashwana FaThima S
+Developed by: JANARTHANAN S
 
-Registeration Number : 212222040059
+Registeration Number : 212222040058
 
 Date : 16.09.2024
 
